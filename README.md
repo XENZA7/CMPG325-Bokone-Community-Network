@@ -29,3 +29,15 @@ accommodating two forward-looking requirements:
 - A possible **additional floor** next financial year (reserved VLAN/subnet)
 - A planned **branch office** (Change Request CR6 — addressing and design
   accommodation only, no second-site build)
+  
+## Repository Structure
+| Folder | Contents |
+|---|---|
+| `01-client-requirements/` | Requirements analysis document |
+| `02-network-design/` | Physical and logical topology diagrams |
+| `03-ip-addressing/` | IP addressing plan and subnet breakdown |
+| `04-packet-tracer/` | Working `.pkt` file |
+| `05-configuration/` | Exported device configurations |
+| `06-testing-evidence/` | Verification screenshots and command output |
+| `07-troubleshooting/` | Issues encountered and how they were resolved |
+| `08-reflection/` | Project reflection |
